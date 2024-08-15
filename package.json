@@ -1,0 +1,13 @@
+{
+    "name": "devpractica",
+    "version": "1.0.0",
+    "description": "serv",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js",
+        "tejaye": "node server.js"
+    },
+    "dependencies": {
+        "nodemon": "^3.1.4"
+    }
+}
